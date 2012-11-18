@@ -2,3 +2,4 @@ pineapple
 apricot
 blueberry
 apple
+banana
